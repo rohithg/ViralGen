@@ -1,0 +1,1 @@
+Run ./Run_ViralGen.command. Optional: set ELEVENLABS_API_KEY env var.
